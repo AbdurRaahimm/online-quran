@@ -11,7 +11,7 @@ This is a simple online Quran that  We can see surah List and read individual su
 - Read individual surah (Dynamic Single page only Vanila js)
 - Searching by Surah name
 - Order in Ascending and Descending
-- set URL params when searching and ordaring
+- set URL params when searching and ordering
 - Dark Mode
 - Scroll Indicator
 
