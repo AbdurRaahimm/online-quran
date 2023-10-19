@@ -21,6 +21,7 @@ This is a simple online Quran that  We can see surah List and read individual su
 ![Preview](./img/quran.png)
 ![Preview](./img/quranLight.png)
 ![Preview](./img/quranNight.png)
+![Preview](./img/single.png)
 
 
 
