@@ -26,7 +26,7 @@ This is a simple online Quran that  We can see surah List and read individual su
 
 
 ## Live Demo
-[Live Demo](#screenshot)
+[Live Demo](https://abdurraahimm.github.io/online-quran/?order=asc)
 
 ## How to use
 1. Clone the repository or download it as zip file.
